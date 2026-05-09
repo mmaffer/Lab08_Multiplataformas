@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter analyze *)",
+      "PowerShell(Remove-Item -Path \"c:\\\\Users\\\\mmaff\\\\MovilesMultiplataforma\\\\lab08\\\\lib\\\\data\\\\app_data.dart\" -Force -Confirm:$false)",
+      "PowerShell(Remove-Item -Path \"c:\\\\Users\\\\mmaff\\\\MovilesMultiplataforma\\\\lab08\\\\lib\\\\data\" -Force -Recurse -Confirm:$false)"
+    ]
+  }
+}
